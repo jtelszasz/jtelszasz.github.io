@@ -1,0 +1,5 @@
+name: Justin Elszasz
+markdown: kramdown
+sass:
+  sass-dir: _sass
+baseurl: /

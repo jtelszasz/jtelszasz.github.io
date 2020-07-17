@@ -1,0 +1,149 @@
+I"¯/<h1 id="reading">reading</h1>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work --&gt;
+  &lt;style type="text/css" media="screen"&gt;   .gr_custom_container_1594947962 {
+/* customize your Goodreads widget container here*/
+border: 1px solid gray;
+border-radius:10px;
+padding: 10px 5px 10px 5px;
+background-color: transparent;
+color: #000000;
+width: 300px   }   .gr_custom_header_1594947962 {
+/* customize your Goodreads header here*/
+border-bottom: 1px solid gray;
+width: 100%;
+margin-bottom: 5px;
+text-align: center;
+font-size: 150%   }   .gr_custom_each_container_1594947962 {
+/* customize each individual book container here */
+width: 100%;
+clear: both;
+margin-bottom: 10px;
+overflow: auto;
+padding-bottom: 4px;
+border-bottom: 1px solid #aaa;   }   .gr_custom_book_container_1594947962 {
+/* customize your book covers here */
+overflow: hidden;
+height: 60px;
+  float: left;
+  margin-right: 4px;
+  width: 39px;   }   .gr_custom_author_1594947962 {
+/* customize your author names here */
+font-size: 10px;   }   .gr_custom_tags_1594947962 {
+/* customize your tags here */
+font-size: 10px;
+color: gray;   }   .gr_custom_rating_1594947962 {
+/* customize your rating stars here */
+float: right;   }
+</code></pre></div></div>
+<p>&lt;/style&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;div id="gr_custom_widget_1594947962"&gt;
+      &lt;div class="gr_custom_container_1594947962"&gt;
+&lt;h2 class="gr_custom_header_1594947962"&gt;
+&lt;a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/1954050-justin-elszasz?shelf=read&amp;amp;utm_medium=api&amp;amp;utm_source=custom_widget"&gt;Justin&amp;#39;s bookshelf: read&lt;/a&gt;
+&lt;/h2&gt;
+  &lt;div class="gr_custom_each_container_1594947962"&gt;
+      &lt;div class="gr_custom_book_container_1594947962"&gt;
+        &lt;a title="The Crying of Lot 49" rel="nofollow" href="https://www.goodreads.com/review/show/1160122008?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;&lt;img alt="The Crying of Lot 49" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375727632l/2794._SY75_.jpg" /&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_rating_1594947962"&gt;
+        &lt;span class=" staticStars notranslate" title="really liked it"&gt;&lt;img alt="really liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_title_1594947962"&gt;
+        &lt;a rel="nofollow" href="https://www.goodreads.com/review/show/1160122008?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;The Crying of Lot 49&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_author_1594947962"&gt;
+        by &lt;a rel="nofollow" href="https://www.goodreads.com/author/show/235.Thomas_Pynchon"&gt;Thomas Pynchon&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_review_1594947962"&gt;
+        Found myself having to reread sections to untangle characters and keep connections straight but I guess that's postmodernism or my frail attention.
+      &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="gr_custom_each_container_1594947962"&gt;
+      &lt;div class="gr_custom_book_container_1594947962"&gt;
+        &lt;a title="The Death of Ivan Ilych" rel="nofollow" href="https://www.goodreads.com/review/show/3413536212?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;&lt;img alt="The Death of Ivan Ilych" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336967150l/18386._SX50_.jpg" /&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_rating_1594947962"&gt;
+        &lt;span class=" staticStars notranslate" title="it was amazing"&gt;&lt;img alt="it was amazing" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_title_1594947962"&gt;
+        &lt;a rel="nofollow" href="https://www.goodreads.com/review/show/3413536212?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;The Death of Ivan Ilych&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_author_1594947962"&gt;
+        by &lt;a rel="nofollow" href="https://www.goodreads.com/author/show/128382.Leo_Tolstoy"&gt;Leo Tolstoy&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_tags_1594947962"&gt;
+        tagged:
+        my-essentials, literature, philosophy, and kindle
+      &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="gr_custom_each_container_1594947962"&gt;
+      &lt;div class="gr_custom_book_container_1594947962"&gt;
+        &lt;a title="I Can't Breathe: A Killing on Bay Street" rel="nofollow" href="https://www.goodreads.com/review/show/2164225298?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;&lt;img alt="I Can't Breathe: A Killing on Bay Street" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491880908l/32740061._SY75_.jpg" /&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_rating_1594947962"&gt;
+        &lt;span class=" staticStars notranslate" title="it was amazing"&gt;&lt;img alt="it was amazing" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_title_1594947962"&gt;
+        &lt;a rel="nofollow" href="https://www.goodreads.com/review/show/2164225298?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;I Can't Breathe: A Killing on Bay Street&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_author_1594947962"&gt;
+        by &lt;a rel="nofollow" href="https://www.goodreads.com/author/show/34394.Matt_Taibbi"&gt;Matt Taibbi&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_tags_1594947962"&gt;
+        tagged:
+        biography, cities, crime, government, non-fiction, and political-sc...
+      &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="gr_custom_each_container_1594947962"&gt;
+      &lt;div class="gr_custom_book_container_1594947962"&gt;
+        &lt;a title="Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool" rel="nofollow" href="https://www.goodreads.com/review/show/3097300684?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;&lt;img alt="Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534142751l/40121328._SY75_.jpg" /&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_rating_1594947962"&gt;
+        &lt;span class=" staticStars notranslate" title="liked it"&gt;&lt;img alt="liked it" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_inactive.png" /&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_title_1594947962"&gt;
+        &lt;a rel="nofollow" href="https://www.goodreads.com/review/show/3097300684?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_author_1594947962"&gt;
+        by &lt;a rel="nofollow" href="https://www.goodreads.com/author/show/6583172.Emily_Oster"&gt;Emily Oster&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_review_1594947962"&gt;
+        The last several chapters seemed like filler - basically none of the last topics in the last quarter of the book or so had any relevant data but they were included for discussion anyways.
+      &lt;/div&gt;
+      &lt;div class="gr_custom_tags_1594947962"&gt;
+        tagged:
+        parenting, non-fiction, and practical
+      &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="gr_custom_each_container_1594947962"&gt;
+      &lt;div class="gr_custom_book_container_1594947962"&gt;
+        &lt;a title="Breakfast of Champions" rel="nofollow" href="https://www.goodreads.com/review/show/44348051?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;&lt;img alt="Breakfast of Champions" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934446l/4980._SY75_.jpg" /&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_rating_1594947962"&gt;
+        &lt;span class=" staticStars notranslate" title="it was amazing"&gt;&lt;img alt="it was amazing" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;img alt="" src="https://www.goodreads.com/images/layout/gr_red_star_active.png" /&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_title_1594947962"&gt;
+        &lt;a rel="nofollow" href="https://www.goodreads.com/review/show/44348051?utm_medium=api&amp;amp;utm_source=custom_widget"&gt;Breakfast of Champions&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_author_1594947962"&gt;
+        by &lt;a rel="nofollow" href="https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_"&gt;Kurt Vonnegut Jr.&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class="gr_custom_tags_1594947962"&gt;
+        tagged:
+        literature, fiction, and humor
+      &lt;/div&gt;
+  &lt;/div&gt;   &lt;br style="clear: both"/&gt;
+</code></pre></div></div>
+<center>
+    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://www.goodreads.com/images/widget/widget_logo.gif" /></a>
+  </center>
+<noscript>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Share &lt;a rel="nofollow" href="https://www.goodreads.com/"&gt;book reviews&lt;/a&gt; and ratings with Justin, and even join a &lt;a rel="nofollow" href="https://www.goodreads.com/group"&gt;book club&lt;/a&gt; on Goodreads.
+</code></pre></div>  </div>
+</noscript>
+<p>&lt;/div&gt;
+      &lt;/div&gt;
+      <script src="https://www.goodreads.com/review/custom_widget/1954050.Justin's%20bookshelf:%20read?cover_position=left&amp;cover_size=small&amp;num_books=5&amp;order=d&amp;shelf=read&amp;show_author=1&amp;show_cover=1&amp;show_rating=1&amp;show_review=1&amp;show_tags=1&amp;show_title=1&amp;sort=date_read&amp;widget_bg_color=FFFFFF&amp;widget_bg_transparent=true&amp;widget_border_width=1&amp;widget_id=1594947962&amp;widget_text_color=000000&amp;widget_title_size=large&amp;widget_width=medium" type="text/javascript" charset="utf-8"></script></p>
+:ET
