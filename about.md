@@ -4,5 +4,3 @@ title: about
 permalink: /about/
 ---
 
-# sup
-asdfs
