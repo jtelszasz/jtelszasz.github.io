@@ -1,0 +1,12 @@
+<div class="card">
+	{% if include.link != "" %}
+  	 <a href="{{ include.link }}"><img src="{{ include.image }}" alt="card" style="width:100%"></a>
+  	{% else %}
+  	<img src="{{ include.image }}" alt="card" style="width:100%">
+  	{% endif %}
+  <div class="container">
+    <h4><b>{{ include.title }}</b></h4>
+    <h5>{{ include.subtitle }}</h5>
+    <p>{{ include.description }}</p>
+  </div>
+</div>
