@@ -4,10 +4,12 @@ title: fun
 permalink: /fun/
 ---
 
-# Reading
+#### Recent Cycling 
+
+{% include strava_widget.html %}
+
+#### Recent Reading
 
 {% include goodreads_widget.html %}
 
-# Riding
 
-{% include strava_widget.html %}
