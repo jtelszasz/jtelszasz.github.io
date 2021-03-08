@@ -1,4 +1,4 @@
-I"Y<div id="myBtnContainer">
+I"z<div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
   <button class="btn" onclick="filterSelection('data')"> Data</button>
   <button class="btn" onclick="filterSelection('cities')"> Cities</button>
@@ -25,12 +25,12 @@
  
  <a href="https://github.com/city-of-baltimore/shooting_environment_report">
  
-  <img src="/assets/images/policestat.png" alt="card" style="width:100%" />
+  <img src="/assets/images/shoot_env_report.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Shooting Environment Report</b></h4>
     <h5></h5>
-    <p>Automated report to identify open service requests near recent shooting locations.</p>
+    <p>Automated report to identify open service requests near shooting locations.</p>
   </div>
 </a>
 </div>
@@ -77,16 +77,16 @@
 </a>
 </div>
 
-<div class="card data">
+<div class="card cities">
  
  <a href="https://www.baltopi.com/innovation-bpd-project">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/bpd_recruit.png" alt="card" style="width:100%" />
 
   <div class="container">
-    <h4><b>Baltimore Police Department Recruiting &amp; Hiring</b></h4>
+    <h4><b>BPD Recruiting</b></h4>
     <h5></h5>
-    <p>Member of original Innovation Team, focused on improving recruiting and hiring practices for Baltimore Police Department</p>
+    <p>Innovation team project focused on improving recruiting and hiring practices for Baltimore Police Department</p>
   </div>
 </a>
 </div>
@@ -217,7 +217,7 @@
  
  <a href="https://www.iepec.org/wp-content/uploads/2018/04/2017paper_elszasz_dyke-redmond_spencer_ward_zafar_seiden_decker_newton.pdf">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/nilm.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>NILM Paper</b></h4>
@@ -231,7 +231,7 @@
  
  <a href="https://www.iepec.org/wp-content/uploads/2017/08/elszasz_presentation.pdf">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/nilm_pres.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>NILM Presentation</b></h4>

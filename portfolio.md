@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 {% include project_card.html category="data" image="/assets/images/city_data_fellows.png" link = "https://www.baltopi.com/data-fellows" title="City Data Fellows" description = "Embeds data analysts in city agencies to improve city services for the residents of Baltimore." %}
 
-{% include project_card.html category="data" image="/assets/images/policestat.png" link="https://github.com/city-of-baltimore/shooting_environment_report" title = "Shooting Environment Report" description="Automated report to identify open service requests near recent shooting locations." %}
+{% include project_card.html category="data" image="/assets/images/shoot_env_report.png" link="https://github.com/city-of-baltimore/shooting_environment_report" title = "Shooting Environment Report" description="Align city operations to public safety." %}
 
 {% include project_card.html category="data cities" image="/assets/images/city_covid19_dashboard.png" title = "City COVID-19 Dashboard" description = "Led the design and development of Baltimore's COVID-19 dashboard" link = "https://coronavirus.baltimorecity.gov" %}
 
@@ -16,7 +16,7 @@ permalink: /portfolio/
 
 {% include project_card.html category="data" image="/assets/images/cleanstat.png" link = "https://www.baltopi.com/cleanstat" title = "Clean It Up! Campaign / CleanStat"  description = "" %} 
 
-{% include project_card.html category="data" image="" link = "https://www.baltopi.com/innovation-bpd-project" title = "Baltimore Police Department Recruiting & Hiring" description = "Member of original Innovation Team, focused on improving recruiting and hiring practices for Baltimore Police Department" %} 
+{% include project_card.html category="cities" image="/assets/images/bpd_recruit.png" link = "https://www.baltopi.com/innovation-bpd-project" title = "BPD Recruiting" description = "Innovation team project focused on improving recruiting and hiring practices for Baltimore Police Department" %} 
 
 {% include project_card.html image="/assets/images/ggiteam.png" link = "https://github.com/city-of-baltimore/ggiteam" title = "ggiteam R Package" description = "R package for styling data visualizations in ggplot2" %}
 
@@ -37,9 +37,9 @@ permalink: /portfolio/
 
 {% include project_card.html category="energy" link="https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program" title = "Appliance Standards"  description = "U.S. Department of Energy Federal Efficiency Regulations." %} 
 
-{% include project_card.html category="data energy" link="https://www.iepec.org/wp-content/uploads/2018/04/2017paper_elszasz_dyke-redmond_spencer_ward_zafar_seiden_decker_newton.pdf" title = "NILM Paper"  description = "Evaluation of non-invasive load monitoring for residential buildings." %} 
+{% include project_card.html category="data energy" image="/assets/images/nilm.png" link="https://www.iepec.org/wp-content/uploads/2018/04/2017paper_elszasz_dyke-redmond_spencer_ward_zafar_seiden_decker_newton.pdf" title = "NILM Paper"  description = "Evaluation of non-invasive load monitoring for residential buildings." %} 
 
-{% include project_card.html category="data energy" link="https://www.iepec.org/wp-content/uploads/2017/08/elszasz_presentation.pdf" title = "NILM Presentation"  description = "Evaluation of non-invasive load monitoring for residential buildings." %} 
+{% include project_card.html category="data energy" image="/assets/images/nilm_pres.png" link="https://www.iepec.org/wp-content/uploads/2017/08/elszasz_presentation.pdf" title = "NILM Presentation"  description = "Evaluation of non-invasive load monitoring for residential buildings." %} 
 
 {% include project_card.html category="data energy" link="" title ="Bayesian Lighting Analysis"  description = "Implemented Bayesian model to understand uncertainty of lighting measurements." %} 
 
