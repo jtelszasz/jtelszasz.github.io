@@ -1,4 +1,4 @@
-I"î&<div id="myBtnContainer">
+I"Ù(<div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> show all</button>
   <button class="btn" onclick="filterSelection('data')"> data</button>
   <button class="btn" onclick="filterSelection('cities')"> cities</button>
@@ -357,16 +357,32 @@
 &lt;/a&gt;
 </div>
 
-<div class="card data">
+<div class="card data cities">
+ 
+ <a href="http://jtelszasz.github.io/the-training-set/">
  
   <img src="" alt="card" style="width:100%" />
 
   <div class="container">
-    <h4><b>The Training Set </b></h4>
+    <h4><b>The Training Set</b></h4>
     <h5></h5>
     <p>Archived website focused on Baltimore open data.</p>
   </div>
-&lt;/a&gt;
+</a>
+</div>
+
+<div class="card media cities">
+ 
+ <a href="https://elgl.org/elgl19-session-innovation-from-coast-to-coast-pt-2/">
+ 
+  <img src="https://storage.googleapis.com/proudcity/elgl/uploads/2019/01/Innovation-from-Coast-to-Coast-sequel.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>2019 ELGL Innovation Panel</b></h4>
+    <h5></h5>
+    <p>Panel with some LA innovation team friends.</p>
+  </div>
+</a>
 </div>
 
 :ET

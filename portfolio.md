@@ -60,9 +60,10 @@ permalink: /portfolio/
 
 {% include project_card.html category="data energy" link="" title ="Bayesian Lighting Analysis"  description = "Implemented Bayesian model to understand uncertainty of lighting measurements." %} 
 
-{% include project_card.html category="data" link="" title = "The Training Set "  description = "Archived website focused on Baltimore open data." %} 
+{% include project_card.html category="data cities" link="http://jtelszasz.github.io/the-training-set/" title = "The Training Set"  description = "Archived website focused on Baltimore open data." %} 
 
 
+{% include project_card.html category="media cities" image="https://storage.googleapis.com/proudcity/elgl/uploads/2019/01/Innovation-from-Coast-to-Coast-sequel.png" link="https://elgl.org/elgl19-session-innovation-from-coast-to-coast-pt-2/" title = "2019 ELGL Innovation Panel"  description = "Panel with some LA innovation team friends." %} 
 
 
 
