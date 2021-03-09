@@ -1,4 +1,4 @@
-I"Å$<div id="myBtnContainer">
+I"î&<div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> show all</button>
   <button class="btn" onclick="filterSelection('data')"> data</button>
   <button class="btn" onclick="filterSelection('cities')"> cities</button>
@@ -18,6 +18,20 @@
     <h4><b>City Data Fellows</b></h4>
     <h5></h5>
     <p>Embeds data analysts in city agencies to improve city services for the residents of Baltimore.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data cities media">
+ 
+ <a href="https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/">
+ 
+  <img src="https://technical.ly/baltimore/wp-content/uploads/sites/3/2020/07/cleanstat-dashboard.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>CitiStat Program</b></h4>
+    <h5></h5>
+    <p>Part of culture change and modernization of CitiStat program</p>
   </div>
 </a>
 </div>
@@ -45,7 +59,7 @@
   <div class="container">
     <h4><b>City COVID-19 Dashboard</b></h4>
     <h5></h5>
-    <p>Led the design and development of Baltimore's COVID-19 dashboard</p>
+    <p>Supported design and development of Baltimore's COVID-19 dashboard</p>
   </div>
 </a>
 </div>
@@ -64,9 +78,9 @@
 </a>
 </div>
 
-<div class="card data">
+<div class="card data media cities">
  
- <a href="https://www.baltopi.com/cleanstat">
+ <a href="https://technical.ly/baltimore/2020/07/30/how-baltimores-cleanstat-is-making-a-difference-between-the-city-being-trashed-or-treasured/">
  
   <img src="/assets/images/cleanstat.png" alt="card" style="width:100%" />
 

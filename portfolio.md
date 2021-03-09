@@ -8,13 +8,15 @@ permalink: /portfolio/
 
 {% include project_card.html category="data" image="/assets/images/city_data_fellows.png" link = "https://www.baltopi.com/data-fellows" title="City Data Fellows" description = "Embeds data analysts in city agencies to improve city services for the residents of Baltimore." %}
 
+{% include project_card.html category="data cities media" image="https://technical.ly/baltimore/wp-content/uploads/sites/3/2020/07/cleanstat-dashboard.jpg" title = "CitiStat Program" description = "Part of culture change and modernization of CitiStat program" link = "https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/" %}
+
 {% include project_card.html category="data" image="/assets/images/shoot_env_report.png" link="https://github.com/city-of-baltimore/shooting_environment_report" title = "Shooting Environment Report" description="Align city operations to public safety." %}
 
-{% include project_card.html category="data cities design" image="/assets/images/city_covid19_dashboard.png" title = "City COVID-19 Dashboard" description = "Led the design and development of Baltimore's COVID-19 dashboard" link = "https://coronavirus.baltimorecity.gov" %}
+{% include project_card.html category="data cities design" image="/assets/images/city_covid19_dashboard.png" title = "City COVID-19 Dashboard" description = "Supported design and development of Baltimore's COVID-19 dashboard" link = "https://coronavirus.baltimorecity.gov" %}
 
 {% include project_card.html category="data" image="/assets/images/policestat.png" link="https://github.com/city-of-baltimore/policestat_public" title = "PoliceStat" description="Develop clear, routine data visualizations for performance management of BPD." %}
 
-{% include project_card.html category="data" image="/assets/images/cleanstat.png" link = "https://www.baltopi.com/cleanstat" title = "Clean It Up! Campaign / CleanStat"  description = "" %} 
+{% include project_card.html category="data media cities" image="/assets/images/cleanstat.png" link = "https://technical.ly/baltimore/2020/07/30/how-baltimores-cleanstat-is-making-a-difference-between-the-city-being-trashed-or-treasured/" title = "Clean It Up! Campaign / CleanStat"  description = "" %} 
 
 {% include project_card.html category="cities design" image="/assets/images/bpd_recruit.png" link = "https://www.baltopi.com/innovation-bpd-project" title = "BPD Recruiting" description = "Innovation team project focused on improving recruiting and hiring practices for Baltimore Police Department" %} 
 
@@ -34,6 +36,8 @@ permalink: /portfolio/
 
 {% include project_card.html category="media" link = "https://datasmart.ash.harvard.edu/news/article/data-design-and-collaboration-how-baltimore-innovating-during-pandemic"
  title = "Harvard Kennedy School Article" description = "Article highlighting OPI work in Data-Smart City Solutions blog." %} 
+
+
 
 {% include project_card.html category="data cities media" link = "https://medium.com/what-works-cities-certification/the-who-and-what-of-what-works-cities-certification-honor-roll-28d146d0743e" title = "What Works Cities Honor Roll" description = "Helped City of Baltimore achieve Honor Roll status." %} 
 
