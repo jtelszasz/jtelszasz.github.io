@@ -1,10 +1,11 @@
-I"z<div id="myBtnContainer">
-  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-  <button class="btn" onclick="filterSelection('data')"> Data</button>
-  <button class="btn" onclick="filterSelection('cities')"> Cities</button>
-  <button class="btn" onclick="filterSelection('energy')"> Energy</button>
-  <button class="btn" onclick="filterSelection('making')"> Making</button>
-  <button class="btn" onclick="filterSelection('media')"> In The Media</button>
+I"Å$<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> show all</button>
+  <button class="btn" onclick="filterSelection('data')"> data</button>
+  <button class="btn" onclick="filterSelection('cities')"> cities</button>
+  <button class="btn" onclick="filterSelection('energy')"> energy</button>
+  <button class="btn" onclick="filterSelection('design')"> design</button>
+  <button class="btn" onclick="filterSelection('making')"> making</button>
+  <button class="btn" onclick="filterSelection('media')"> in the media</button>
 </div>
 
 <div class="card data">
@@ -30,12 +31,12 @@
   <div class="container">
     <h4><b>Shooting Environment Report</b></h4>
     <h5></h5>
-    <p>Automated report to identify open service requests near shooting locations.</p>
+    <p>Align city operations to public safety.</p>
   </div>
 </a>
 </div>
 
-<div class="card data cities">
+<div class="card data cities design">
  
  <a href="https://coronavirus.baltimorecity.gov">
  
@@ -77,7 +78,7 @@
 </a>
 </div>
 
-<div class="card cities">
+<div class="card cities design">
  
  <a href="https://www.baltopi.com/innovation-bpd-project">
  
@@ -109,6 +110,20 @@
  
  <a href="">
  
+  <img src="/assets/images/proton_pack.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Proton Pack</b></h4>
+    <h5></h5>
+    <p>Unlicensed nuclear accelerator for toddler. Arduino, LEDs, cardboard.</p>
+  </div>
+</a>
+</div>
+
+<div class="card making design">
+ 
+ <a href="">
+ 
   <img src="/assets/images/standing_workspace.jpg" alt="card" style="width:100%" />
 
   <div class="container">
@@ -119,28 +134,46 @@
 </a>
 </div>
 
-<div class="card making">
+<div class="card making design">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/shed.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Storage Shed</b></h4>
+    <h5></h5>
+    <p>Outdoor storage shed.</p>
+  </div>
+</a>
+</div>
+
+<div class="card making design">
+ 
+ <a href="">
  
   <img src="/assets/images/bed.jpg" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Bed</b></h4>
-    <h5>Designer/Builder</h5>
+    <h5></h5>
     <p>Custom queen-size bed, from Ikea Nordli dressers and unfinished poplar.</p>
   </div>
-&lt;/a&gt;
+</a>
 </div>
 
-<div class="card making">
+<div class="card making design">
+ 
+ <a href="">
  
   <img src="" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Step Stool</b></h4>
-    <h5>Designer/Builder</h5>
+    <h5></h5>
     <p>Custom step stool for child, from sanded plywood.</p>
   </div>
-&lt;/a&gt;
+</a>
 </div>
 
 <div class="card media">
@@ -208,7 +241,64 @@
   <div class="container">
     <h4><b>Appliance Standards</b></h4>
     <h5></h5>
-    <p>U.S. Department of Energy Federal Efficiency Regulations.</p>
+    <p>Technical lead for various U.S. Department of Energy Federal efficiency regulatory rulemakings</p>
+  </div>
+</a>
+</div>
+
+<div class="card cities design">
+ 
+ <a href="http://abstract20122013.gsapp.org/city-in-between-reimagining-east-aalborg-denmark/">
+ 
+  <img src="" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>City In-Between</b></h4>
+    <h5></h5>
+    <p>Urban design project in East Aalborg, Denmark.</p>
+  </div>
+</a>
+</div>
+
+<div class="card design">
+ 
+ <a href="https://www.zimmerbiomet.com/medical-professionals/spine/product/polaris-5-5-spinal-system.html">
+ 
+  <img src="https://www.zimmerbiomet.com/content/dam/zimmer-biomet/medical-professionals/spine/polaris-deformity-system/product_banner_Polaris-5.5.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Biomet Polaris and Array Systems</b></h4>
+    <h5></h5>
+    <p>Implants and instruments for spinal deformity and degeneration.</p>
+  </div>
+</a>
+</div>
+
+<div class="card design">
+ 
+ <a href="https://ph.parker.com/us/17565/en/aerospace-engine-fuel-injectors">
+ 
+  <img src="https://www.parker.com/Online/Product%20Images/Gas-Turbine-Fuel-Systems-Division/zoom_1000x1000/AeroEngineFuelInjector.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Gas Turbine Fuel Atomization</b></h4>
+    <h5></h5>
+    <p>Design of fuel spray nozzles for Rolls-Royce Engines.</p>
+  </div>
+</a>
+</div>
+
+<div class="card energy">
+ 
+ <a href="https://betterbuildingssolutioncenter.energy.gov/alliance/technology-solution/refrigeration
+">
+ 
+  <img src="https://betterbuildingssolutioncenter.energy.gov/sites/default/files/styles/sector_header_feature/public/landing/images/AdobeStock_80212115_0.jpeg?itok=NUsy5MXP" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Better Buildings Alliance</b></h4>
+    <h5></h5>
+    <p>Technical lead for commercial refrigeration</p>
   </div>
 </a>
 </div>
@@ -263,20 +353,6 @@
     <p>Archived website focused on Baltimore open data.</p>
   </div>
 &lt;/a&gt;
-</div>
-
-<div class="card cities">
- 
- <a href="http://abstract20122013.gsapp.org/city-in-between-reimagining-east-aalborg-denmark/">
- 
-  <img src="" alt="card" style="width:100%" />
-
-  <div class="container">
-    <h4><b>City In-Between</b></h4>
-    <h5></h5>
-    <p>Urban design project in East Aalborg, Denmark.</p>
-  </div>
-</a>
 </div>
 
 :ET
