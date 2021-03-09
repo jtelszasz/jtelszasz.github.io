@@ -1,0 +1,388 @@
+I"Ô(<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> show all</button>
+  <button class="btn" onclick="filterSelection('data')"> data</button>
+  <button class="btn" onclick="filterSelection('cities')"> cities</button>
+  <button class="btn" onclick="filterSelection('energy')"> energy</button>
+  <button class="btn" onclick="filterSelection('design')"> design</button>
+  <button class="btn" onclick="filterSelection('making')"> making</button>
+  <button class="btn" onclick="filterSelection('media')"> media &amp; talks</button>
+</div>
+
+<div class="card data">
+ 
+ <a href="https://www.baltopi.com/data-fellows">
+ 
+  <img src="/assets/images/city_data_fellows.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>City Data Fellows</b></h4>
+    <h5></h5>
+    <p>Embeds data analysts in city agencies to improve city services for the residents of Baltimore.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data cities media">
+ 
+ <a href="https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/">
+ 
+  <img src="https://technical.ly/baltimore/wp-content/uploads/sites/3/2020/07/cleanstat-dashboard.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>CitiStat Program</b></h4>
+    <h5></h5>
+    <p>Part of culture change and modernization of CitiStat program</p>
+  </div>
+</a>
+</div>
+
+<div class="card data">
+ 
+ <a href="https://github.com/city-of-baltimore/shooting_environment_report">
+ 
+  <img src="/assets/images/shoot_env_report.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Shooting Environment Report</b></h4>
+    <h5></h5>
+    <p>Align city operations to public safety.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data cities design">
+ 
+ <a href="https://coronavirus.baltimorecity.gov">
+ 
+  <img src="/assets/images/city_covid19_dashboard.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>City COVID-19 Dashboard</b></h4>
+    <h5></h5>
+    <p>Supported design and development of Baltimore's COVID-19 dashboard</p>
+  </div>
+</a>
+</div>
+
+<div class="card data">
+ 
+ <a href="https://github.com/city-of-baltimore/policestat_public">
+ 
+  <img src="/assets/images/policestat.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>PoliceStat</b></h4>
+    <h5></h5>
+    <p>Develop clear, routine data visualizations for performance management of BPD.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data media cities">
+ 
+ <a href="https://technical.ly/baltimore/2020/07/30/how-baltimores-cleanstat-is-making-a-difference-between-the-city-being-trashed-or-treasured/">
+ 
+  <img src="/assets/images/cleanstat.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Clean It Up! Campaign / CleanStat</b></h4>
+    <h5></h5>
+    <p></p>
+  </div>
+</a>
+</div>
+
+<div class="card cities design">
+ 
+ <a href="https://www.baltopi.com/innovation-bpd-project">
+ 
+  <img src="/assets/images/bpd_recruit.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>BPD Recruiting</b></h4>
+    <h5></h5>
+    <p>Innovation team project focused on improving recruiting and hiring practices for Baltimore Police Department</p>
+  </div>
+</a>
+</div>
+
+<div class="card ">
+ 
+ <a href="https://github.com/city-of-baltimore/ggiteam">
+ 
+  <img src="/assets/images/ggiteam.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>ggiteam R Package</b></h4>
+    <h5></h5>
+    <p>R package for styling data visualizations in ggplot2</p>
+  </div>
+</a>
+</div>
+
+<div class="card making">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/proton_pack.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Proton Pack</b></h4>
+    <h5></h5>
+    <p>Unlicensed nuclear accelerator for toddler. Arduino, LEDs, cardboard.</p>
+  </div>
+</a>
+</div>
+
+<div class="card making design">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/standing_workspace.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Standing Desk + Laptop Stand</b></h4>
+    <h5></h5>
+    <p>Custom standing workspace, from converted closet and sanded plywood.</p>
+  </div>
+</a>
+</div>
+
+<div class="card making design">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/shed.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Storage Shed</b></h4>
+    <h5></h5>
+    <p>Outdoor storage shed.</p>
+  </div>
+</a>
+</div>
+
+<div class="card making design">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/bed.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Bed</b></h4>
+    <h5></h5>
+    <p>Custom queen-size bed, from Ikea Nordli dressers and unfinished poplar.</p>
+  </div>
+</a>
+</div>
+
+<div class="card making design">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Step Stool</b></h4>
+    <h5></h5>
+    <p>Custom step stool for child, from sanded plywood.</p>
+  </div>
+</a>
+</div>
+
+<div class="card media">
+ 
+ <a href="https://www.youtube.com/watch?v=nN6Ffp7fx1M">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Talk on Civic Data</b></h4>
+    <h5></h5>
+    <p>Talk with Data Works MD about how city government uses data.</p>
+  </div>
+</a>
+</div>
+
+<div class="card media">
+ 
+ <a href="https://datasmart.ash.harvard.edu/news/article/data-design-and-collaboration-how-baltimore-innovating-during-pandemic">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Harvard Kennedy School Article</b></h4>
+    <h5></h5>
+    <p>Article highlighting OPI work in Data-Smart City Solutions blog.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data cities media">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>What Works Cities Honor Roll</b></h4>
+    <h5></h5>
+    <p>Helped City of Baltimore achieve Honor Roll status.</p>
+  </div>
+</a>
+</div>
+
+<div class="card media">
+ 
+ <a href="https://www.baltimoresun.com/news/investigations/bs-md-pol-open-baltimore-report-20191011-e6tlslxkmvdqnorzruvztzlcdi-story.html">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>News on Open Data</b></h4>
+    <h5></h5>
+    <p>Comments in Baltimore Sun regarding the state of open data in Baltimore.</p>
+  </div>
+</a>
+</div>
+
+<div class="card energy">
+ 
+ <a href="https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Appliance Standards</b></h4>
+    <h5></h5>
+    <p>Technical lead for various U.S. Department of Energy Federal efficiency regulatory rulemakings</p>
+  </div>
+</a>
+</div>
+
+<div class="card cities design">
+ 
+ <a href="http://abstract20122013.gsapp.org/city-in-between-reimagining-east-aalborg-denmark/">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>City In-Between</b></h4>
+    <h5></h5>
+    <p>Urban design project in East Aalborg, Denmark.</p>
+  </div>
+</a>
+</div>
+
+<div class="card design">
+ 
+ <a href="https://www.zimmerbiomet.com/medical-professionals/spine/product/polaris-5-5-spinal-system.html">
+ 
+  <img src="https://www.zimmerbiomet.com/content/dam/zimmer-biomet/medical-professionals/spine/polaris-deformity-system/product_banner_Polaris-5.5.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Biomet Polaris and Array Systems</b></h4>
+    <h5></h5>
+    <p>Implants and instruments for spinal deformity and degeneration.</p>
+  </div>
+</a>
+</div>
+
+<div class="card design">
+ 
+ <a href="https://ph.parker.com/us/17565/en/aerospace-engine-fuel-injectors">
+ 
+  <img src="/assets/images/fsn.jpg" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Gas Turbine Fuel Atomization</b></h4>
+    <h5></h5>
+    <p>Design of fuel spray nozzles for Rolls-Royce Engines.</p>
+  </div>
+</a>
+</div>
+
+<div class="card energy">
+ 
+ <a href="https://betterbuildingssolutioncenter.energy.gov/alliance/technology-solution/refrigeration
+">
+ 
+  <img src="https://betterbuildingssolutioncenter.energy.gov/sites/default/files/styles/sector_header_feature/public/landing/images/AdobeStock_80212115_0.jpeg?itok=NUsy5MXP" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Better Buildings Alliance</b></h4>
+    <h5></h5>
+    <p>Technical lead for commercial refrigeration</p>
+  </div>
+</a>
+</div>
+
+<div class="card data energy">
+ 
+ <a href="https://www.iepec.org/wp-content/uploads/2018/04/2017paper_elszasz_dyke-redmond_spencer_ward_zafar_seiden_decker_newton.pdf">
+ 
+  <img src="/assets/images/nilm.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>NILM Paper</b></h4>
+    <h5></h5>
+    <p>Evaluation of non-invasive load monitoring for residential buildings.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data energy">
+ 
+ <a href="https://www.iepec.org/wp-content/uploads/2017/08/elszasz_presentation.pdf">
+ 
+  <img src="/assets/images/nilm_pres.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>NILM Presentation</b></h4>
+    <h5></h5>
+    <p>Evaluation of non-invasive load monitoring for residential buildings.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data energy">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Bayesian Lighting Analysis</b></h4>
+    <h5></h5>
+    <p>Implemented Bayesian model to understand uncertainty of lighting measurements.</p>
+  </div>
+&lt;/a&gt;
+</div>
+
+<div class="card data cities">
+ 
+ <a href="http://jtelszasz.github.io/the-training-set/">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>The Training Set</b></h4>
+    <h5></h5>
+    <p>Archived website focused on Baltimore open data.</p>
+  </div>
+</a>
+</div>
+
+<div class="card media cities">
+ 
+ <a href="https://elgl.org/elgl19-session-innovation-from-coast-to-coast-pt-2/">
+ 
+  <img src="https://storage.googleapis.com/proudcity/elgl/uploads/2019/01/Innovation-from-Coast-to-Coast-sequel.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>2019 ELGL Innovation Panel</b></h4>
+    <h5></h5>
+    <p>Panel with some LA innovation team friends.</p>
+  </div>
+</a>
+</div>
+
+:ET

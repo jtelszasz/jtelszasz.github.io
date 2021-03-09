@@ -1,11 +1,11 @@
-I"Ù(<div id="myBtnContainer">
+I"Þ(<div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> show all</button>
   <button class="btn" onclick="filterSelection('data')"> data</button>
   <button class="btn" onclick="filterSelection('cities')"> cities</button>
   <button class="btn" onclick="filterSelection('energy')"> energy</button>
   <button class="btn" onclick="filterSelection('design')"> design</button>
   <button class="btn" onclick="filterSelection('making')"> making</button>
-  <button class="btn" onclick="filterSelection('media')"> in the media</button>
+  <button class="btn" onclick="filterSelection('media')"> media &amp; talks</button>
 </div>
 
 <div class="card data">
@@ -32,6 +32,20 @@
     <h4><b>CitiStat Program</b></h4>
     <h5></h5>
     <p>Part of culture change and modernization of CitiStat program</p>
+  </div>
+</a>
+</div>
+
+<div class="card data cities media">
+ 
+ <a href="">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>What Works Cities Honor Roll</b></h4>
+    <h5></h5>
+    <p>Helped City of Baltimore achieve Honor Roll status.</p>
   </div>
 </a>
 </div>
@@ -180,7 +194,7 @@
  
  <a href="">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Step Stool</b></h4>
@@ -194,7 +208,7 @@
  
  <a href="https://www.youtube.com/watch?v=nN6Ffp7fx1M">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Talk on Civic Data</b></h4>
@@ -208,7 +222,7 @@
  
  <a href="https://datasmart.ash.harvard.edu/news/article/data-design-and-collaboration-how-baltimore-innovating-during-pandemic">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Harvard Kennedy School Article</b></h4>
@@ -218,25 +232,11 @@
 </a>
 </div>
 
-<div class="card data cities media">
- 
- <a href="https://medium.com/what-works-cities-certification/the-who-and-what-of-what-works-cities-certification-honor-roll-28d146d0743e">
- 
-  <img src="" alt="card" style="width:100%" />
-
-  <div class="container">
-    <h4><b>What Works Cities Honor Roll</b></h4>
-    <h5></h5>
-    <p>Helped City of Baltimore achieve Honor Roll status.</p>
-  </div>
-</a>
-</div>
-
 <div class="card media">
  
  <a href="https://www.baltimoresun.com/news/investigations/bs-md-pol-open-baltimore-report-20191011-e6tlslxkmvdqnorzruvztzlcdi-story.html">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>News on Open Data</b></h4>
@@ -250,7 +250,7 @@
  
  <a href="https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Appliance Standards</b></h4>
@@ -264,7 +264,7 @@
  
  <a href="http://abstract20122013.gsapp.org/city-in-between-reimagining-east-aalborg-denmark/">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>City In-Between</b></h4>
@@ -292,7 +292,7 @@
  
  <a href="https://ph.parker.com/us/17565/en/aerospace-engine-fuel-injectors">
  
-  <img src="https://www.parker.com/Online/Product%20Images/Gas-Turbine-Fuel-Systems-Division/zoom_1000x1000/AeroEngineFuelInjector.jpg" alt="card" style="width:100%" />
+  <img src="/assets/images/fsn.jpg" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Gas Turbine Fuel Atomization</b></h4>
@@ -347,21 +347,23 @@
 
 <div class="card data energy">
  
-  <img src="" alt="card" style="width:100%" />
+ <a href="/">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>Bayesian Lighting Analysis</b></h4>
     <h5></h5>
     <p>Implemented Bayesian model to understand uncertainty of lighting measurements.</p>
   </div>
-&lt;/a&gt;
+</a>
 </div>
 
 <div class="card data cities">
  
  <a href="http://jtelszasz.github.io/the-training-set/">
  
-  <img src="" alt="card" style="width:100%" />
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
 
   <div class="container">
     <h4><b>The Training Set</b></h4>
