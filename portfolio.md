@@ -40,7 +40,8 @@ permalink: /portfolio/
 {% include project_card.html category="media" image="/assets/images/blank.png" link = "https://datasmart.ash.harvard.edu/news/article/data-design-and-collaboration-how-baltimore-innovating-during-pandemic"
  title = "Harvard Kennedy School Article" description = "Article highlighting OPI work in Data-Smart City Solutions blog." %} 
 
-
+{% include project_card.html category="media energy" image="/assets/images/blank.png" link = "https://www.washingtonpost.com/news/energy-environment/wp/2016/08/05/obama-has-done-more-to-save-energy-than-any-other-president/"
+ title = "WaPo Article on DOE Appliance Standards" description = "Article highlighting energy savings of DOE appliance standards under President Obama." %} 
 
 
 {% include project_card.html category="media" image="/assets/images/blank.png" link="https://www.baltimoresun.com/news/investigations/bs-md-pol-open-baltimore-report-20191011-e6tlslxkmvdqnorzruvztzlcdi-story.html" title = "News on Open Data"  description = "Comments in Baltimore Sun regarding the state of open data in Baltimore." %} 

@@ -1,4 +1,4 @@
-I"Þ(<div id="myBtnContainer">
+I"³*<div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> show all</button>
   <button class="btn" onclick="filterSelection('data')"> data</button>
   <button class="btn" onclick="filterSelection('cities')"> cities</button>
@@ -228,6 +228,20 @@
     <h4><b>Harvard Kennedy School Article</b></h4>
     <h5></h5>
     <p>Article highlighting OPI work in Data-Smart City Solutions blog.</p>
+  </div>
+</a>
+</div>
+
+<div class="card media energy">
+ 
+ <a href="https://www.washingtonpost.com/news/energy-environment/wp/2016/08/05/obama-has-done-more-to-save-energy-than-any-other-president/">
+ 
+  <img src="/assets/images/blank.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>WaPo Article on DOE Appliance Standards</b></h4>
+    <h5></h5>
+    <p>Article highlighting energy savings of DOE appliance standards under President Obama.</p>
   </div>
 </a>
 </div>
