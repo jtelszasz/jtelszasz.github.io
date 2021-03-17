@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about
+title: 'justin elszasz: about'
 permalink: /about/
 ---
 

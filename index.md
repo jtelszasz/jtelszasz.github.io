@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Justin Elszasz
+title: 'justin elszasz: home'
 permalink: /
 ---
 

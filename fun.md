@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fun
+title: 'justin elszasz: fun'
 permalink: /fun/
 ---
 
