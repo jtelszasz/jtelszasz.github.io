@@ -8,6 +8,10 @@ permalink: /fun/
 
 {% include strava_widget.html %}
 
+#### Recent Tunes
+
+{% include spotify_widget.html %}
+
 #### Recent Reading
 
 {% include goodreads_widget.html %}

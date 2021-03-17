@@ -1,6 +1,10 @@
-I"0)<h4 id="recent-cycling">Recent Cycling</h4>
+I"*<h4 id="recent-cycling">Recent Cycling</h4>
 
 <iframe height="200" width="300" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/athletes/2649382/activity-summary/233b12c6a1bbbd30c504b5247bb115e33f1b9310"></iframe>
+
+<h4 id="recent-tunes">Recent Tunes</h4>
+
+<iframe src="https://open.spotify.com/embed/playlist/17acGxll38bC44lQ5XbvN0" width="300" height="200" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <h4 id="recent-reading">Recent Reading</h4>
 
