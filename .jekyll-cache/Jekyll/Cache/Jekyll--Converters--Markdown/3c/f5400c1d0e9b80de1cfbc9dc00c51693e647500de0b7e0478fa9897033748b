@@ -1,4 +1,4 @@
-I"³*<div id="myBtnContainer">
+I"’,<div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> show all</button>
   <button class="btn" onclick="filterSelection('data')"> data</button>
   <button class="btn" onclick="filterSelection('cities')"> cities</button>
@@ -383,6 +383,20 @@
     <h4><b>The Training Set</b></h4>
     <h5></h5>
     <p>Archived website focused on Baltimore open data.</p>
+  </div>
+</a>
+</div>
+
+<div class="card data cities media">
+ 
+ <a href="https://technical.ly/baltimore/2015/04/21/justin-elszasz-training-set-parking-ticket-open-data/?utm_content=buffer957cc&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer">
+ 
+  <img src="/assets/images/technically_parking.png" alt="card" style="width:100%" />
+
+  <div class="container">
+    <h4><b>Technically Article</b></h4>
+    <h5></h5>
+    <p>Profile on Technically Baltimore.</p>
   </div>
 </a>
 </div>

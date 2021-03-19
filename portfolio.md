@@ -65,6 +65,8 @@ permalink: /portfolio/
 
 {% include project_card.html category="data cities" image="/assets/images/blank.png" link="http://jtelszasz.github.io/the-training-set/" title = "The Training Set"  description = "Archived website focused on Baltimore open data." %} 
 
+{% include project_card.html category="data cities media" image="/assets/images/technically_parking.png" link="https://technical.ly/baltimore/2015/04/21/justin-elszasz-training-set-parking-ticket-open-data/?utm_content=buffer957cc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" title = "Technically Article"  description = "Profile on Technically Baltimore." %} 
+
 
 {% include project_card.html category="media cities" image="https://storage.googleapis.com/proudcity/elgl/uploads/2019/01/Innovation-from-Coast-to-Coast-sequel.png" link="https://elgl.org/elgl19-session-innovation-from-coast-to-coast-pt-2/" title = "2019 ELGL Innovation Panel"  description = "Panel with some LA innovation team friends." %} 
 
