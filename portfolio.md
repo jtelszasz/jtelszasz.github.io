@@ -23,7 +23,7 @@ permalink: /portfolio/
 
 {% include project_card.html category="data cities media" image="https://production.listennotes.com/podcasts/govex-data-points-govex-data-points-8iluXpazJ7O-LXpkhnQrYxc.1400x1400.jpg" title = "Interview on GovEx Data Points" description = "Discussing Baltimore Data Academy, Data Literacy, Governance" link = "https://blubrry.com/govexdatapoints/105477615/81-democratizing-data-in-city-workforces-a-conversation-with-baltimore-chief-data-officer-justin-elszasz/" %}
 
-{% include project_card.html category="making design" image="/assets/images/deck_rebuild.pdf"  title = "Deck Rebuild" description="Redesign, repair, rebuild of residential deck." %}
+{% include project_card.html category="making design" image="/assets/images/deck_rebuild.png"  title = "Deck Rebuild" description="Redesign, repair, rebuild of residential deck." %}
 
 {% include project_card.html category="data cities media" image="https://technical.ly/wp-content/uploads/2020/07/Cleanstat-dashboard-2.jpg" title = "CitiStat Program" description = "Part of culture change and modernization of CitiStat program" link = "https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/" %}
 
