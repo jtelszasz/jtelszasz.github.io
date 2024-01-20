@@ -6,13 +6,14 @@ permalink: /portfolio/
 
 {% include portfolio_filter.html %}
 
-{% include project_card.html category="data" image="/assets/images/city_data_fellows.png" link = "https://www.baltopi.com/data-fellows" title="City Data Fellows" description = "Embeds data analysts in city agencies to improve city services for the residents of Baltimore." %}
+{% include project_card.html category="data cities media design" image="https://technical.ly/wp-content/uploads/2020/06/BaltimoreCityHall.jpg" title = "Digital Services Team" description = "$2.1 million allocation of ARPA funding to build City's first Digital Services Team" link = "https://statescoop.com/baltimore-launches-digital-service-city-performance-unit/" %}
 
 {% include project_card.html category="data cities media" image="https://pbs.twimg.com/media/FtdFp5HX0A89Hir.jpg:large" title = "Baltimore Data Academy" description = "Launched five courses to build data literacy throughout City government" link = "https://bloombergcities.jhu.edu/news/new-frontier-data-upskilling-everyone-city-hall" %}
 
 {% include project_card.html category="data cities media" image="https://i.ytimg.com/vi/3K7jPeUBlV0/maxresdefault.jpg" title = "Interview on GovLove Podcast" description = "Discussing data science, digital services" link = "https://www.youtube.com/watch?v=3K7jPeUBlV0" %}
 
-{% include project_card.html category="data cities media design" image="https://technical.ly/wp-content/uploads/2020/06/BaltimoreCityHall.jpg" title = "Creation of Digital Services Team" description = "$2.1 million allocation of ARPA funding to build City's first Digital Services Team" link = "https://statescoop.com/baltimore-launches-digital-service-city-performance-unit/" %}
+{% include project_card.html category="data" image="/assets/images/city_data_fellows.png" link = "https://www.baltopi.com/data-fellows" title="City Data Fellows" description = "Embeds data analysts in city agencies to improve city services for the residents of Baltimore." %}
+
 
 {% include project_card.html category="data cities media" image="https://statescoop.com/wp-content/uploads/sites/6/2022/08/LS22_Web_Thumbnail.png" title = "2022 StateScoop LocalSmart Award Nominee" description = "Nominee in 2022 for Local IT Leader of the Year" link = "" %}
 
@@ -21,6 +22,8 @@ permalink: /portfolio/
 
 
 {% include project_card.html category="data cities media" image="https://production.listennotes.com/podcasts/govex-data-points-govex-data-points-8iluXpazJ7O-LXpkhnQrYxc.1400x1400.jpg" title = "Interview on GovEx Data Points" description = "Discussing Baltimore Data Academy, Data Literacy, Governance" link = "https://blubrry.com/govexdatapoints/105477615/81-democratizing-data-in-city-workforces-a-conversation-with-baltimore-chief-data-officer-justin-elszasz/" %}
+
+{% include project_card.html category="making design" image="/assets/images/deck_rebuild.png" link="" title = "Deck Rebuild" description="Redesign, repair, rebuild of residential deck." %}
 
 {% include project_card.html category="data cities media" image="https://technical.ly/baltimore/wp-content/uploads/sites/3/2020/07/cleanstat-dashboard.jpg" title = "CitiStat Program" description = "Part of culture change and modernization of CitiStat program" link = "https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/" %}
 
