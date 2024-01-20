@@ -15,17 +15,17 @@ permalink: /portfolio/
 {% include project_card.html category="data" image="/assets/images/city_data_fellows.png" link = "https://www.baltopi.com/data-fellows" title="City Data Fellows" description = "Embeds data analysts in city agencies to improve city services for the residents of Baltimore." %}
 
 
-{% include project_card.html category="data cities media" image="https://statescoop.com/wp-content/uploads/sites/6/2022/08/LS22_Web_Thumbnail.png" title = "2022 StateScoop LocalSmart Award Nominee" description = "Nominee in 2022 for Local IT Leader of the Year" link = "" %}
+{% include project_card.html category="data cities media" image="https://statescoop.com/wp-content/uploads/sites/6/2022/08/LS22_Web_Thumbnail.png" title = "2022 StateScoop LocalSmart Award Nominee" description = "Nominee in 2022 for Local IT Leader of the Year"%}
 
 
-{% include project_card.html category="data cities media" image="https://statescoop.com/wp-content/uploads/sites/6/2021/09/LS21Thumbnail.png" title = "2021 StateScoop LocalSmart Award Nominee" description = "Nominee in 2021 for Local IT Leader of the Year" link = "" %}
+{% include project_card.html category="data cities media" image="https://statescoop.com/wp-content/uploads/sites/6/2021/09/LS21Thumbnail.png" title = "2021 StateScoop LocalSmart Award Nominee" description = "Nominee in 2021 for Local IT Leader of the Year" %}
 
 
 {% include project_card.html category="data cities media" image="https://production.listennotes.com/podcasts/govex-data-points-govex-data-points-8iluXpazJ7O-LXpkhnQrYxc.1400x1400.jpg" title = "Interview on GovEx Data Points" description = "Discussing Baltimore Data Academy, Data Literacy, Governance" link = "https://blubrry.com/govexdatapoints/105477615/81-democratizing-data-in-city-workforces-a-conversation-with-baltimore-chief-data-officer-justin-elszasz/" %}
 
-{% include project_card.html category="making design" image="/assets/images/deck_rebuild.pdf" link="" title = "Deck Rebuild" description="Redesign, repair, rebuild of residential deck." %}
+{% include project_card.html category="making design" image="/assets/images/deck_rebuild.pdf"  title = "Deck Rebuild" description="Redesign, repair, rebuild of residential deck." %}
 
-{% include project_card.html category="data cities media" image="https://technical.ly/baltimore/wp-content/uploads/sites/3/2020/07/cleanstat-dashboard.jpg" title = "CitiStat Program" description = "Part of culture change and modernization of CitiStat program" link = "https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/" %}
+{% include project_card.html category="data cities media" image="https://technical.ly/wp-content/uploads/2020/07/Cleanstat-dashboard-2.jpg" title = "CitiStat Program" description = "Part of culture change and modernization of CitiStat program" link = "https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/" %}
 
 
 {% include project_card.html category="data cities media" image="/assets/images/blank.png" ink = "https://medium.com/what-works-cities-certification/the-who-and-what-of-what-works-cities-certification-honor-roll-28d146d0743e" title = "What Works Cities Honor Roll" description = "Helped City of Baltimore achieve Honor Roll status." %} 
