@@ -6,4 +6,9 @@ permalink: /
 
 # Hi, I'm Justin.
 
-I'm a data scientist, engineer, and public servant working for the City of Baltimore. Here's a little [about me](/about).
+I am a creator, a change agent, and an
+experienced public servant. I am endlessly
+curious and creative. I bring data, design, and
+innovation to bear on social issues.
+
+Here's a little [about me](/about).

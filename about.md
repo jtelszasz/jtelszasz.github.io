@@ -4,9 +4,9 @@ title: 'justin elszasz: about'
 permalink: /about/
 ---
 
-I'm lucky enough to serve the City of Baltimore as Chief Data Officer. I'm also adjunct faculty at the Maryland Institute College of Art in their graduate [Data Analytics & Visualization](https://www.mica.edu/graduate-programs/data-analytics-and-visualization-mps/) program.
+My most recent role was as Chief Data Officer for the City of Balitmore. I also recently taught and the Maryland Institute College of Art in their graduate [Data Analytics & Visualization](https://www.mica.edu/graduate-programs/data-analytics-and-visualization-mps/) program.
 
-I'm married with two little kids. Enjoy road cycling, making and repairing things, reading, thinking, and generally not being on social media (except [LinkedIn](https://www.linkedin.com/in/justinelszasz/)). 
+I'm married with two little kids. I enjoy road cycling, making and repairing things, reading, thinking, and generally not being on social media (except [LinkedIn](https://www.linkedin.com/in/justinelszasz/)). 
 
 Here's my [resume](https://drive.google.com/file/d/1sahEjrJvEL0ZYC2l-hfgVQGLy8KGES1P/view?usp=sharing).
 
