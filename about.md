@@ -4,9 +4,9 @@ title: 'justin elszasz: about'
 permalink: /about/
 ---
 
-My most recent role was as Chief Data Officer for the City of Balitmore. I also recently taught and the Maryland Institute College of Art in their graduate [Data Analytics & Visualization](https://www.mica.edu/graduate-programs/data-analytics-and-visualization-mps/) program.
+My most recent role was as Chief Data Officer and Interim Director for the Mayor's Office of Performance & Innovation for the City of Balitmore. I also recently taught and the Maryland Institute College of Art in their graduate [Data Analytics & Visualization](https://www.mica.edu/graduate-programs/data-analytics-and-visualization-mps/) program.
 
-I'm married with two little kids. I enjoy road cycling, making and repairing things, reading, thinking, and generally not being on social media (except [LinkedIn](https://www.linkedin.com/in/justinelszasz/)). 
+I'm married with two little kiddos. I enjoy road cycling, making and repairing things, reading, thinking, and generally not being on social media (except [LinkedIn](https://www.linkedin.com/in/justinelszasz/)). 
 
 Here's my [resume](https://drive.google.com/file/d/1UmRYHn0LYQ-RYfXfZROk4f5pHHudk3FC/view?usp=sharing).
 
