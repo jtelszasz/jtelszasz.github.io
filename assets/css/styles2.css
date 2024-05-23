@@ -28,8 +28,7 @@ nav ul, footer ul { font-size: 1em;
 
 nav ul li, footer ul li { 
   display: inline; 
-  
-  margin-left: 20px; 
+  margin-left: 16px; 
 }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
@@ -67,7 +66,7 @@ ul.posts li { list-style: none; }
 
 /* Add some padding inside the card container */
 .container {
-  padding: 2px 2px;
+  padding: 2px 16px;
 }
 
 .card .container p {
