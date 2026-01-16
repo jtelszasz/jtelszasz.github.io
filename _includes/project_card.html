@@ -1,0 +1,25 @@
+<div class="card {{ include.category }}">
+ {% if include.image and include.image != "" %}
+  {% if include.link != "" %}
+  <a href="{{ include.link }}">
+  {% endif %}
+  <img src="{{ include.image }}" alt="card" style="width:100%;display:block">
+  {% if include.link != "" %}
+  </a>
+  {% endif %}
+ {% endif %}
+  <div class="container">
+    {% if include.link != "" %}
+    <a href="{{ include.link }}">
+    {% endif %}
+    <h4><b>{{ include.title }}</b></h4>
+    {% if include.link != "" %}
+    </a>
+    {% endif %}
+    <h5>{{ include.subtitle }}</h5>
+    <p>{{ include.description }}</p>
+  </div>
+
+</div>
+
+

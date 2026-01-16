@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZCDG4C67E9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZCDG4C67E9');
+</script>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href='{{ site.baseurl }}/assets/css/styles2.css'>
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Space+Mono">
+			
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+		        	<li><a href="/resume">Resume</a></li>
+	        		<li><a href="/portfolio">Portfolio</a></li>
+	        		<!--<li><a href="/work-with-me">Work With Me</a></li>!-->
+	        		<li><a href="https://goodenough4gov.substack.com/">Substack</a></li>
+
+	    		</ul>
+			</nav>
+			<div class="container">
+
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<script type="text/javascript" src='{{ site.baseurl }}/assets/javascript/filter.js'></script>
+
+		</body>
+	</html>

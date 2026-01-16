@@ -1,0 +1,303 @@
+projects:
+
+  - year: 2026
+    title: "Data Points Podcast Interview"
+    category: "leadership data media"
+    image: "/assets/images/data-points-podcast.jpg"
+    description: "On developing the AI Capacity Quiz with the Bloomberg Center for Government Excellence."
+    link: "https://govex.jhu.edu/podcast/episode-104/"
+
+  - year: 2025
+    title: "Bloomberg City Data Alliance AI Track"
+    category: "data media"
+    image: "/assets/images/ai_quiz_banner.png"
+    description: "Technical assistance and coaching on AI strategy and prototyping to Green Bay, Wisconsin and Moncton, Canada."
+    link: "https://govex.jhu.edu/what-we-do/expert-advisors/ai-track/"
+
+  - year: 2025
+    title: "Gun Violence Dashboards"
+    category: "data cities media"
+    image: "/assets/images/philly.png"
+    description: "Technical assistance to ten American ciites on publishing gun violence data and dashboards on behalf of Everytown for Gun Safety."
+    link: "https://everytownresearch.org/report/local-gun-violence-dashboards-toolkit/"
+
+  - year: 2025
+    title: "Bloomberg Harvard City Leadership Initiative"
+    category: "leadership data media"
+    image: "/assets/images/ai_quiz_banner.png"
+    description: "Coaching and technical assistance to Naperville, Illinois on performance management."
+    link: "https://govex.jhu.edu/what-we-do/expert-advisors/ai-track/"
+
+  - year: 2023
+    title: "Digital Services Team"
+    category: "leadership data media design"
+    image: "https://technical.ly/wp-content/uploads/2020/06/BaltimoreCityHall.jpg"
+    description: "$2.1 million allocation of ARPA funding to build City's first Digital Services Team"
+    link: "https://statescoop.com/baltimore-launches-digital-service-city-performance-unit/"
+
+  - year: 2023
+    title: "Ethics of Data & AI Webinar"
+    category: "leadership data media"
+    image: "/assets/images/bdl.png"
+    description: "Discussion of ethical framework and consideration in data and artificial intelligence."
+    link: "https://www.youtube.com/watch?v=3CZMMvF44xE"
+
+  - year: 2023
+    title: "Baltimore Data Academy"
+    category: "leadership data"
+    image: "https://pbs.twimg.com/media/FtdFp5HX0A89Hir.jpg:large"
+    description: "Launched five courses to build data literacy throughout City government"
+    link: "https://bloombergcities.jhu.edu/news/new-frontier-data-upskilling-everyone-city-hall"
+
+  - year: 2023
+    title: "Agency Performance Plans"
+    category: "leadership data cities"
+    image: "https://mayor.baltimorecity.gov/sites/default/files/actionplan_fpimg.png"
+    description: "Guided team through the publication of the City's first public agency performance plans."
+    link: "https://baltopi.shinyapps.io/Performance/"
+
+  - year: 2023
+    title: "Interview on GovEx Data Points"
+    category: "leadership data cities media"
+    image: "/assets/images/data-points-podcast.jpg"
+    description: "Discussing Baltimore Data Academy, Data Literacy, Governance"
+    link: "https://blubrry.com/govexdatapoints/105477615/81-democratizing-data-in-city-workforces-a-conversation-with-baltimore-chief-data-officer-justin-elszasz/"
+
+  - year: 2023
+    title: "Interview on GovLove Podcast"
+    category: "leadership data cities media"
+    image: "https://i.ytimg.com/vi/3K7jPeUBlV0/maxresdefault.jpg"
+    description: "Discussing data science, digital services."
+    link: "https://www.youtube.com/watch?v=3K7jPeUBlV0"
+
+  - year: 2023
+    title: "Mudroom Remodel"
+    category: "making design"
+    image: ""
+    description: "Complete remodel of residential mudroom, including repairing drywall, painting, replacing trim, refinishing and repainting cabinets, installing lighting fixture."
+    link: ""
+
+  - year: 2022
+    title: "2022 StateScoop LocalSmart Award Nominee"
+    category: "leadership data media"
+    image: "https://statescoop.com/wp-content/uploads/sites/6/2022/08/LS22_Web_Thumbnail.png"
+    description: "Nominee in 2022 for Local IT Leader of the Year"
+    link: ""
+
+  - year: 2022
+    title: "What Works Cities Silver Certification"
+    category: "leadership data cities media"
+    image: "/assets/images/blank.png"
+    description: "Led Baltimore to certification by Bloomberg Philanthropies as a leader in data."
+    link: "https://whatworkscities.bloomberg.org/cities/baltimore-maryland-usa/"
+
+  - year: 2022
+    title: "Deck Rebuild"
+    category: "making design"
+    image: "/assets/images/deck_rebuild.png"
+    description: "Redesign, repair, rebuild of residential deck."
+    link: ""
+
+  - year: 2022
+    title: "Talk on Civic Data"
+    category: "leadership data cities media"
+    image: "/assets/images/blank.png"
+    description: "Talk with Data Works MD about how city government uses data."
+    link: "https://www.youtube.com/watch?v=nN6Ffp7fx1M"
+
+  - year: 2021
+    title: "2021 StateScoop LocalSmart Award Nominee"
+    category: "leadership data media"
+    image: "https://statescoop.com/wp-content/uploads/sites/6/2021/09/LS21Thumbnail.png"
+    description: "Nominee in 2021 for Local IT Leader of the Year"
+    link: ""
+
+  - year: 2021
+    title: "Career Profile"
+    category: "cities data media"
+    image: "https://technical.ly/wp-content/uploads/2021/03/Justin-Elszasz-scaled-e1626645535450.jpg"
+    description: "How I Got Here: Experimenting with careers led Justin Elszasz to Baltimore City's chief data officer role."
+    link: "https://technical.ly/civic-news/how-i-got-here-experimenting-led-justin-elszasz-to-baltimore-citys-chief-data-officer-role/"
+
+  - year: 2021
+    title: "Shooting Environment Report"
+    category: "cities data design"
+    image: "/assets/images/shoot_env_report.png"
+    description: "Analytics report to align city operations to public safety."
+    link: "https://github.com/city-of-baltimore/shooting_environment_report"
+
+  - year: 2020
+    title: "City COVID-19 Dashboard"
+    category: "data cities design"
+    image: "/assets/images/city_covid19_dashboard.png"
+    description: "Guided design and development of Baltimore's COVID-19 dashboard."
+    link: "https://coronavirus.baltimorecity.gov"
+
+  - year: 2020
+    title: "PoliceStat"
+    category: "data"
+    image: "/assets/images/policestat.png"
+    description: "Led data-driven meetings with Mayor, Police Commissioner, and City leaders regarding police performance. Developed clear data visualizations for better communication."
+    link: "https://github.com/city-of-baltimore/policestat_public"
+
+  - year: 2020
+    title: "Clean It Up! Campaign / CleanStat"
+    category: "data media cities"
+    image: "/assets/images/cleanstat.png"
+    description: ""
+    link: "https://technical.ly/baltimore/2020/07/30/how-baltimores-cleanstat-is-making-a-difference-between-the-city-being-trashed-or-treasured/"
+
+  - year: 2020
+    title: "Harvard Kennedy School Article"
+    category: "cities media"
+    image: "/assets/images/blank.png"
+    description: "Article highlighting OPI work in Data-Smart City Solutions blog."
+    link: "https://datasmart.ash.harvard.edu/news/article/data-design-and-collaboration-how-baltimore-innovating-during-pandemic"
+
+  - year: 2020
+    title: "CitiStat Program"
+    category: "data cities media"
+    image: "https://technical.ly/wp-content/uploads/2020/07/Cleanstat-dashboard-2.jpg"
+    description: "Part of culture change and modernization of CitiStat program"
+    link: "https://technical.ly/baltimore/2020/10/28/citistat-data-government-lessons/"
+
+  - year: 2020
+    title: "Proton Pack"
+    category: "making"
+    image: "/assets/images/proton_pack.jpg"
+    description: "Unlicensed nuclear accelerator for toddlerArduino, LEDs, cardboard."
+    link: ""
+
+  - year: 2020
+    title: "Standing Desk + Laptop Stand"
+    category: "making design"
+    image: "/assets/images/standing_workspace.jpg"
+    description: "Custom standing workspace, from converted closet and sanded plywood."
+    link: ""
+
+  - year: 2020
+    title: "Storage Shed"
+    category: "making design"
+    image: "/assets/images/shed.jpg"
+    description: "Outdoor storage shed."
+    link: ""
+
+  - year: 2020
+    title: "Bed"
+    category: "making design"
+    image: "/assets/images/bed.jpg"
+    description: "Custom queen-size bed, from Ikea Nordli dressers and unfinished poplar."
+    link: ""
+
+  - year: 2020
+    title: "Step Stool"
+    category: "making design"
+    image: "/assets/images/blank.png"
+    description: "Custom step stool for child, from sanded plywood."
+    link: ""
+
+  - year: 2019
+    title: "City Data Fellows"
+    category: "data"
+    image: "/assets/images/city_data_fellows.png"
+    description: "Created program to recruit and embed data analysts in city agencies to improve city services."
+    link: "https://www.baltopi.com/data-fellows"
+
+  - year: 2019
+    title: "WaPo Article on DOE Appliance Standards"
+    category: "media energy"
+    image: "/assets/images/blank.png"
+    description: "Article highlighting energy savings of DOE appliance standards under President Obama."
+    link: "https://www.washingtonpost.com/news/energy-environment/wp/2016/08/05/obama-has-done-more-to-save-energy-than-any-other-president/"
+
+  - year: 2019
+    title: "News on Open Data"
+    category: "data media"
+    image: "/assets/images/blank.png"
+    description: "Comments in Baltimore Sun regarding the state of open data in Baltimore."
+    link: "https://www.baltimoresun.com/news/investigations/bs-md-pol-open-baltimore-report-20191011-e6tlslxkmvdqnorzruvztzlcdi-story.html"
+
+  - year: 2019
+    title: "2019 ELGL Innovation Panel"
+    category: "media cities"
+    image: "https://storage.googleapis.com/proudcity/elgl/uploads/2019/01/Innovation-from-Coast-to-Coast-sequel.png"
+    description: "Panel with some LA innovation team friends."
+    link: "https://elgl.org/elgl19-session-innovation-from-coast-to-coast-pt-2/"
+
+  - year: 2018
+    title: "BPD Recruiting"
+    category: "cities design"
+    image: "/assets/images/bpd_recruit.png"
+    description: "Innovation team project focused on improving recruiting and hiring practices for Baltimore Police Department"
+    link: "https://www.baltopi.com/innovation-bpd-project"
+
+  - year: 2018
+    title: "ggiteam R Package"
+    category: ""
+    image: "/assets/images/ggiteam.png"
+    description: "R package for styling data visualizations in ggplot2"
+    link: "https://github.com/city-of-baltimore/ggiteam"
+
+  - year: 2017
+    title: "Novel Data Science Approach"
+    category: "data energy"
+    image: "/assets/images/nilm.png"
+    description: "Evaluation of non-invasive load monitoring for residential buildings."
+    link: "https://www.iepec.org/wp-content/uploads/2018/04/2017paper_elszasz_dyke-redmond_spencer_ward_zafar_seiden_decker_newton.pdf"
+
+  - year: 2017
+    title: "Bayesian Lighting Analysis"
+    category: "data energy"
+    image: "/assets/images/blank.png"
+    description: "Implemented Bayesian model to understand uncertainty of lighting measurements."
+    link: ""
+
+  - year: 2017
+    title: "Better Buildings Alliance"
+    category: "energy"
+    image: "https://betterbuildingssolutioncenter.energy.gov/sites/default/files/styles/sector_header_feature/public/landing/images/AdobeStock_80212115_0.jpeg?itok=NUsy5MXP"
+    description: "Technical lead for commercial refrigeration"
+    link: "https://betterbuildingssolutioncenter.energy.gov/alliance/technology-solution/refrigeration"
+
+  - year: 2016
+    title: "The Training Set"
+    category: "data cities"
+    image: "/assets/images/blank.png"
+    description: "Archived website focused on Baltimore open data."
+    link: "http://jtelszasz.github.io/the-training-set/"
+
+  - year: 2015
+    title: "Technical.ly Article"
+    category: "data cities media"
+    image: "/assets/images/technically_parking.png"
+    description: "Profile on Technically Baltimore for The Training Set blog."
+    link: "https://technical.ly/baltimore/2015/04/21/justin-elszasz-training-set-parking-ticket-open-data/?utm_content=buffer957cc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+
+  - year: 2013
+    title: "Appliance Efficiency"
+    category: "energy"
+    image: "/assets/images/furnace.jpeg"
+    description: "Technical lead for various U.S Department of Energy Federal efficiency regulatory rulemakings"
+    link: "https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program"
+
+  - year: 2012
+    title: "City In-Between"
+    category: "cities design"
+    image: "/assets/images/aalborg.jpg"
+    description: "Urban design project in East Aalborg, Denmark."
+    link: "http://abstract20122013.gsapp.org/city-in-between-reimagining-east-aalborg-denmark/"
+
+  - year: 2009
+    title: "Biomet Polaris and Array Systems"
+    category: "making design"
+    image: "/assets/images/Polaris-12.webp"
+    description: "Product development engineer for implants and instruments to correct spinal deformity and degeneration."
+    link: ""
+
+  - year: 2006
+    title: "Gas Turbine Fuel Atomization"
+    category: "making design"
+    image: "/assets/images/fsn.jpg"
+    description: "Design engineer co-op student for fuel spray nozzles for Rolls-Royce aircraft engines."
+    link: "https://ph.parker.com/us/17565/en/aerospace-engine-fuel-injectors"
+
